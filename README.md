@@ -1,0 +1,1 @@
+# sui_password_generator
